@@ -1,0 +1,17 @@
+#core
+core/node_modules
+core/.env
+core/typechain
+core/typechain-types
+core/cache
+core/artifacts
+
+#web
+web/node_modules
+web/.env
+web/coverage
+web/coverage.json
+
+
+
+
